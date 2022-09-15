@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseURL = 'http://api-heroes-fimlm.herokuapp.com';
+const baseURL = 'https://apisuperheroes.herokuapp.com';
 
 const heroesApi = axios.create({ baseURL });
 
